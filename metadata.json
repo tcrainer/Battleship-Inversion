@@ -1,0 +1,5 @@
+{
+  "name": "Edu-Battleship: Quiz & Conquer",
+  "description": "A turn-based multiplayer battleship game for 2-3 players where students must answer educational questions to earn their shots. Features local pass-and-play mechanics and customizable questions.",
+  "requestFramePermissions": []
+}
